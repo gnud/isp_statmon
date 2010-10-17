@@ -68,7 +68,9 @@ The following individuals made this version of rainbow-shooter possible.
    <first last name> <email>
 
 3 Installation
-
+  Dependencies:
+  - beautiful-soup, for html parsing,
+  - pygtk for gui.
 This project is distributed as a compressed tarball. To install this
 project decompress the distribution file in a new folder having the
 same name as the project.
