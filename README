@@ -1,0 +1,77 @@
+=====================================================================
+Title: ispstatmon
+
+Subtitle: Provides the users to monitor their bandwidth usage for past or current month.
+
+Version: 0.01
+
+Updated: Oct 17, 2010
+
+License:
+This program is free software; you can redistribute it and / or
+modify it under the terms of the GNU Public License
+as published by the Free Software Foundation; either version 3
+of the License, or any later version.
+
+This program is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public
+License along with this library; if not,write to the Free Software
+Foundation, Inc, 59 Temple Place, Suite 330, Boston, MA 02111-1307
+USA.
+
+Copyright (c) 2010 Damjan Dimitrioski <damjandimitrioski@gmail.com>
+---------------------------------------------------------------------
+
+1 Documentation
+
+<Caption detail>:
+
+   Documentation:
+   o DistroFileNameingConvention
+   o ModuleProgrammingGuidelines
+   o ProgrammingConventions
+   o TechnicalSpecification
+   o PunchList
+
+   Templates:
+   o <Empty>
+
+
+   Licenses:
+   o FDL_License
+   o GPL_LIcense
+
+
+2 Credits
+
+The following individuals made this version of rainbow-shooter possible.
+
+   Developers:
+   ==================================================================
+   <first last name> <email>
+   Damjan Dimitrioski (damjandimitrioski@gmail.com)
+
+   Contributors:
+   ==================================================================
+   <first last name> <email>
+
+   Beta Testers:
+   ==================================================================
+   <first last name> <email>
+
+   Special Thanks:
+   ==================================================================
+   <first last name> <email>
+
+3 Installation
+
+This project is distributed as a compressed tarball. To install this
+project decompress the distribution file in a new folder having the
+same name as the project.
+
+We hope you have as much fun using ispstatmon as I did
+creating it.
